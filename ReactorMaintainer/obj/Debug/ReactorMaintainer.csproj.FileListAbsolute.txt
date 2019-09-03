@@ -1,0 +1,10 @@
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\bin\Debug\ReactorMaintainer.exe.config
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\bin\Debug\ReactorMaintainer.exe
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\bin\Debug\ReactorMaintainer.pdb
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\obj\Debug\ReactorMaintainer.csprojAssemblyReference.cache
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\obj\Debug\ReactorMaintainer.Form1.resources
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\obj\Debug\ReactorMaintainer.Properties.Resources.resources
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\obj\Debug\ReactorMaintainer.csproj.GenerateResource.cache
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\obj\Debug\ReactorMaintainer.csproj.CoreCompileInputs.cache
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\obj\Debug\ReactorMaintainer.exe
+C:\Users\otg02\source\repos\ReactorMaintainer\ReactorMaintainer\obj\Debug\ReactorMaintainer.pdb
